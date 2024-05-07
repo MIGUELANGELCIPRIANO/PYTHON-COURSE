@@ -1,2 +1,7 @@
 # PYTHON-COURSE
-Python basic course, high-level programming language
+
+<img width="50%" src="" />
+
+## INTRODUCTION
+
+Python basic course, high-level programming language.
