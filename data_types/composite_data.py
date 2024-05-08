@@ -17,8 +17,8 @@ print(set)
 dict = {
     "name": "Urabrask",
     "color": "Red",
-    "cost": [2, "R"],
-    "power_toughness": 6.6,
-    "phyrexian": True,
+    "cost": [2, "R", "R"],
+    "power_toughness": 4.4,
+    "legendary": True,
 }
 print(dict["name"])
