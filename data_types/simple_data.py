@@ -1,5 +1,5 @@
-# TEXT 
-'string'
+# TEXT
+"string"
 
 # INTEGER
 40

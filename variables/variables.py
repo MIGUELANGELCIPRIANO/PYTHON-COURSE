@@ -1,8 +1,8 @@
 # camelCase variable
-userFullName = 'John Doe'
+userFullName = "John Doe"
 
 # snake_case variable (recommended)
-user_full_name = 'John Doe'
+user_full_name = "John Doe"
 
 number = 10
 number += 5
@@ -10,13 +10,13 @@ number += 5
 # del number
 print(number)
 
-name = 'John'
+name = "John"
 
 # Concatenate with f.strings
-greeting = f'Hi {name}, How are you?'
+greeting = f"Hi {name}, How are you?"
 
 # Concatenate with +
-greeting = 'Hi ' + name + ', How are you?'
+greeting = "Hi " + name + ", How are you?"
 
 print(greeting)
 
