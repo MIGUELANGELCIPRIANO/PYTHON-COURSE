@@ -16,7 +16,7 @@ print(set)
 # DICT
 dict = {
     "name": "Urabrask",
-    "color": "Red",
+    "color": "red",
     "cost": [2, "R", "R"],
     "power_toughness": 4.4,
     "legendary": True,
