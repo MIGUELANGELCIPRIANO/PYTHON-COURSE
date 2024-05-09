@@ -1,3 +1,5 @@
+# TIME CALCULATOR SENTENCE
+
 sentence = input("Enter a sentence: ")
 words = sentence.split(" ")
 word_count = len(words)
