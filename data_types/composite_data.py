@@ -2,9 +2,9 @@
 list = ["Urabrask", "red", 4, 4.4, True]
 print(list[1])
 
-# TUPLA
-tupla = ("Vorinclex", "green", 5, 6.6, True)  # Cannot be changed
-print(tupla[1])
+# TUPLE
+tuple = ("Vorinclex", "green", 5, 6.6, True)  # Cannot be changed
+print(tuple[1])
 
 # SET
 # Can be iterated but not accessed via indexes
