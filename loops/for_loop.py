@@ -70,3 +70,10 @@ for praetor in praetors:
     print(praetor)
     if praetor == "Urabrask":
         break
+
+# FOR IN STRINGS
+
+green_praetor = "Vorinclex, Monstrous Raider"
+
+for letters in green_praetor:
+    print(letters)
