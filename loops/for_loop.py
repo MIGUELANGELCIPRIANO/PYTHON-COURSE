@@ -38,3 +38,23 @@ for praetor, number in zip(praetors, numbers):
     print(f"Power/Toughness: {number}")
 else:
     print("End of list")
+
+# FOR IN DICTIONARIES
+
+red_praetor = dict(
+    name="Urabrask",
+    color="red",
+    cost=[2, "R", "R"],
+    power_toughness=4.4,
+    legendary=True,
+)
+
+for key in red_praetor:
+    print(key)
+
+# ITEMS()
+
+for data in red_praetor.items():
+    key = data[0]
+    value = data[1]
+    print(f"{key} = {value}")
