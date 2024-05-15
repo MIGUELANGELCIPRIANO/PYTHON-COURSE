@@ -12,6 +12,6 @@ import sys
 
 sys.path.append("c:\\Users\\cipri_9p901s4\\Desktop\\PYTHON-COURSE\\module_routing")
 
-import greet_function
+import greet_function  # type: ignore
 
 print(greet_function.greet("Jason"))
