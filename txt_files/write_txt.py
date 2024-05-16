@@ -14,7 +14,7 @@
 
 
 def new_line(linea):
-    with open("files\\text_file.txt", "a", encoding="UTF-8") as file:
+    with open("txt_files\\text_file.txt", "a", encoding="UTF-8") as file:
         file.write(f"{linea}\n")
 
 

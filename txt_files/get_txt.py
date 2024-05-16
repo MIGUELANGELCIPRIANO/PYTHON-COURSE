@@ -1,4 +1,4 @@
-file = open("files\\text_file.txt", encoding="UTF-8")
+file = open("txt_files\\text_file.txt", encoding="UTF-8")
 
 # READ COMPLETE FILE
 # print(file.read())
