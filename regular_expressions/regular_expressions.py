@@ -57,3 +57,18 @@ sunt in culpa qui officia deserunt mollit anim id est laborum."""
 
 # | : OR
 # print(re.findall(r"l{1,2}|mollit", text))
+
+# SUB
+# print(re.sub("[aeiou]", "*", text))  # Replacing vowels with asterisks
+
+# MATCH
+
+# email = "magicthegathering@email.com"
+# pattern = "[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}"
+
+# response = re.match(pattern, email)
+
+# if response:
+#     print("Valid email address")
+# else:
+#     print("Invalid email address")
