@@ -1,4 +1,4 @@
-# WORKING WITH FILES
+# WORKING WITH TXT FILES
 
 names = [
     "Leanne",
