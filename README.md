@@ -21,3 +21,34 @@ https://www.python.org/
 <img width="50%" src="" />
 
 ## EXECUTION
+
+4. Check if Python installation package management system is installed.
+5. Execute the command from the terminal located at ./PYTHON-COURSE.
+
+```shell
+pip
+```
+
+6. If your Python environment does not have pip installed, install or update the version from the following link.
+
+https://pip.pypa.io/en/stable/installation/
+
+7. Execute the command from the terminal located at ./PYTHON-COURSE to install pandas.
+
+```shell
+pip install pandas
+```
+
+8. Execute the command from the terminal located at ./PYTHON-COURSE to install matplotlib.
+
+```shell
+pip install matplotlib
+```
+
+9. Execute the command from the terminal located at ./PYTHON-COURSE to install seaborn.
+
+```shell
+pip install seaborn
+```
+
+10. Use the "Run Without Debugging" option (Ctrl+F5) of Visual Studio Code to run.
