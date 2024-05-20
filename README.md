@@ -1,6 +1,6 @@
 # PYTHON-COURSE
 
-<img width="50%" src="" />
+<img width="50%" src="./images/python_course.png" />
 
 ## INTRODUCTION
 
@@ -14,11 +14,19 @@ https://www.python.org/
 
 2. Install the Microsoft extension for Python in Visual Studio Code.
 
-<img width="50%" src="" />
+<br />
+
+<img width="50%" src="./images/python_extension.png" />
+
+<br />
 
 3. Install Microsoft's Black formatter extension for formatting Python in Visual Studio Code
 
-<img width="50%" src="" />
+<br />
+
+<img width="50%" src="./images/black_formatter_extension.png" />
+
+<br />
 
 ## EXECUTION
 
