@@ -20,7 +20,7 @@ https://www.python.org/
 
 <br />
 
-3. Install Microsoft's Black formatter extension for formatting Python in Visual Studio Code
+3. Install Microsoft's Black formatter extension for formatting Python in Visual Studio Code.
 
 <br />
 
